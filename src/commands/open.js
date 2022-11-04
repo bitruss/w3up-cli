@@ -40,7 +40,7 @@ const checkTarget = ({ cid }) => {
 
 export default {
   command: 'open <cid>',
-  describe: 'Open a CID in your browser on w3s.link',
+  describe: 'Open a CID in your browser on meson.network',
   builder,
   handler,
   exampleIn: '$0 open bafy...',

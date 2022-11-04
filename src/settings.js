@@ -24,7 +24,7 @@ const ACCESS_DID =
   process.env.ACCESS_DID ||
   'did:key:z6MkkHafoFWxxWVNpNXocFdU6PL2RVLyTEgS1qTnD3bRP7V9' // production
 
-export const OPEN_WITH_SERVICE_URL = 'https://w3s.link/ipfs/'
+export const OPEN_WITH_SERVICE_URL = 'https://pz-ipfs.meson.network/ipfs/'
 
 export default {
   projectName,

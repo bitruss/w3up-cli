@@ -65,7 +65,7 @@ async function generateCarUploads (filePath, view, chunkSize = 512, profile) {
 
     if (roots && roots.length) {
       console.log(
-        `IPFS Gateway url:\n https://w3s.link/ipfs/${roots[0].toString()}`
+        `IPFS Gateway url:\n https://pz-ipfs.meson.network/ipfs/${roots[0].toString()}`
       )
     }
   } catch (err) {
