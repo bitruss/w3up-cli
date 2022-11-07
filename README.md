@@ -21,6 +21,7 @@ Please reach out to the #web3-storage channel on [IPFS Discord](https://docs.ipf
 Install from NPM:
 
 ```sh
+npm install -g @bitruss/w3up-cli
 npm install -g @web3-storage/w3up-cli
 ```
 
